@@ -4,7 +4,7 @@ Ansible-MessageOfTheDay is an Ansible role for configuring Ubuntu-like Message O
 
 ## **Requirements**
 
-At the moment this role is being written for Debian (Jessie and Stretch). It may evolve to include other major distributions (except Ubuntu).
+At the moment this role is being written for Debian (Jessie, Stretch and Buster). It may evolve to include other major distributions (except Ubuntu).
 
 ## **Role Variables**
 
